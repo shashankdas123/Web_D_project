@@ -1,15 +1,7 @@
-
-
-
-
-
-
 {
   "engines": {
-    "node" : "20.13.1"
+    "node": "20.13.1"
   },
-
-
   "name": "majour_project",
   "version": "1.0.0",
   "main": "index.js",
@@ -21,7 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cloudinary": "^2.2.0",
+    "cloudinary": "^2.4.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^5.1.0",
     "dotenv": "^16.4.5",
